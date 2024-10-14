@@ -29,8 +29,3 @@ The 3D modeling project was developed in Blender, showcasing a visual scene set 
 
 ![3D Modeling Project](Img/Closeup.png)
 
----
-
-### Conclusion
-
-These projects not only demonstrate our technical skills in game design and 3D modeling but also reflect our ability to collaborate and innovate in a university setting. Through the use of Blender and OpenGL, we were able to create immersive experiences that capture the imagination of our audience.
