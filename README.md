@@ -14,7 +14,7 @@ In this project, we created a game using OpenGL, where players control a dragon 
 - **Theme Customization**: Players have the option to choose the background theme, enhancing the visual appeal and allowing for a more personalized gaming experience.
 
 
-![Dragon Game - Forest theme](Img/com/Dragon_forest.png)
+![Dragon Game - Forest theme](Img/Dragon_forest.png)
 ![Dragon Game - Mountain theme](Img/Dragon_mountain.png)
 
 ---
